@@ -1,6 +1,6 @@
 <h2>Hey there! I'm Elise</h2>
 
-### &nbsp;About Me
+### 👋 &nbsp;About Me
 
 I'm currently studying Computer Science and Mathematics at Georgetown University. My main interests are full-stack software development and machine learning. The majority of my experience is with cross-platform frameworks such as React, Flutter, and .NET core. In my free time, I pursue graphic design and digital art. Feel free email me at eyz7@georgetown.edu or take a look at my projects.
 
@@ -54,5 +54,4 @@ I'm currently studying Computer Science and Mathematics at Georgetown University
 
 <p align="center">
 <a href="https://linkedin.com/in/elise-yz"><img src="https://img.shields.io/badge/-Elise%20Zhu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:eyz7@georgetown.edu"><img src="https://img.shields.io/badge/-eyz7@georgetown.edu?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
