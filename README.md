@@ -53,6 +53,6 @@ I'm currently studying Computer Science and Mathematics at Georgetown University
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/elise-yz"><img src="https://img.shields.io/badge/-Elise%20Vikram%20Zhu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/elise-yz"><img src="https://img.shields.io/badge/-Elise%20Zhu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:eyz7@georgetown.edu"><img src="https://img.shields.io/badge/-eyz7@georgetown.edu?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
